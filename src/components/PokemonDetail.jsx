@@ -91,7 +91,7 @@ const PokemonDetail = () => {
                 
                 
 
-                <div className='pokemon-content'>
+                <div className='pokemon-content-detail'>
                     <img className='img-pokemon' src={detail.imageBig} alt="" />
                     <div className='img-pokemon-info'> 
                         <h4>Heigth : {detail.height}</h4>
