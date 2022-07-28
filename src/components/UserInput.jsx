@@ -38,7 +38,7 @@ const UserInput = () => {
 
     return (
         <div>
-            <h1>What's you name ?</h1>
+            <h1>What's your name ?</h1>
             <p>Give me your name to star</p>
             <div >
                 <form className='form' onSubmit={submit} >
